@@ -21,7 +21,7 @@ VX/电话:156 2553 3038
 # Loop Knight
 [Steam 上的 重生勇者](https://store.steampowered.com/app/1596430/_/?l=schinese)
 
-![[cache_list/78b85254a8f0a3160cfa6f09040996c0_MD5.png]]
+![重生勇者steam主页截图](cache_list/78b85254a8f0a3160cfa6f09040996c0_MD5.png)
 
 此项目属于在校期间的毕业设计,是一款2D策略闯关类的游戏;
 
@@ -32,7 +32,7 @@ VX/电话:156 2553 3038
 ```
 
 # 中润数字人-林加一
-![[cache_list/5380a11aa29be21398dd05e6b690d2b0_MD5.png]]
+![林加一](cache_list/5380a11aa29be21398dd05e6b690d2b0_MD5.png)
 
 链接：[https://pan.baidu.com/s/1ryYbRqTiVgtlJZS-wyaRiA?pwd=shlk](https://pan.baidu.com/s/1ryYbRqTiVgtlJZS-wyaRiA?pwd=shlk) 
 
@@ -46,9 +46,9 @@ VX/电话:156 2553 3038
 ```
 
 # 机器人-数字孪生-杰为
-![[cache_list/7fe4b37458ea4e7f08541f8d6cb7674a_MD5.png]]
+![01](cache_list/7fe4b37458ea4e7f08541f8d6cb7674a_MD5.png)
 
-![[cache_list/881ccc1e2933fd2aaa589d3dde4c665d_MD5.png]]
+![02](cache_list/881ccc1e2933fd2aaa589d3dde4c665d_MD5.png)
 
 链接：[https://pan.baidu.com/s/1XglCWLH0XuY0PV1MICLFHw?pwd=jj91](https://pan.baidu.com/s/1XglCWLH0XuY0PV1MICLFHw?pwd=jj91) 
 
@@ -69,7 +69,7 @@ VX/电话:156 2553 3038
 # 算法相关Demo
 
 
-![[cache_list/18815e11fcb9f6434dca5281c40dd78b_MD5.png]]
+![03](cache_list/18815e11fcb9f6434dca5281c40dd78b_MD5.png)
 
 链接：[https://pan.baidu.com/s/1Osr-r0mZA3q7yeGnTdplkw?pwd=ys0j](https://pan.baidu.com/s/1Osr-r0mZA3q7yeGnTdplkw?pwd=ys0j) 
 
@@ -87,7 +87,7 @@ VX/电话:156 2553 3038
 ```
 
 # 其他项目
-![[cache_list/225947aa782e5b4d5014ed9b9472961c_MD5.png]]
+![04](cache_list/225947aa782e5b4d5014ed9b9472961c_MD5.png)
 
 链接：[https://pan.baidu.com/s/1k5yVOr_gb_btNlrVNw3OOA?pwd=xgkf](https://pan.baidu.com/s/1k5yVOr_gb_btNlrVNw3OOA?pwd=xgkf) 
 
@@ -112,7 +112,7 @@ VX/电话:156 2553 3038
 ```
 
 # Slate
-![[cache_list/14eadcfe624d8b5661008d7e149db5a2_MD5.png]]
+![05](cache_list/14eadcfe624d8b5661008d7e149db5a2_MD5.png)
 
 链接：[https://pan.baidu.com/s/1gu2JrpMqJKhDXO8KQGBBDQ?pwd=ilsy](https://pan.baidu.com/s/1gu2JrpMqJKhDXO8KQGBBDQ?pwd=ilsy) 
 
@@ -125,7 +125,7 @@ VX/电话:156 2553 3038
 ```
 
 # 游戏复刻/模仿
-![[cache_list/b9793971a139a2e51774d68aa80fde53_MD5.png]]
+![06](cache_list/b9793971a139a2e51774d68aa80fde53_MD5.png)
 
 链接：[https://pan.baidu.com/s/10pN_jI0sx6iapj_QQ8Cr-w?pwd=jx9o](https://pan.baidu.com/s/10pN_jI0sx6iapj_QQ8Cr-w?pwd=jx9o) 
 
@@ -139,7 +139,7 @@ VX/电话:156 2553 3038
 
 # AI 系统
 ## MassAI
-![[cache_list/aa6b6873bfba6a3c21ca9683d98ed911_MD5.png]]
+![07](cache_list/aa6b6873bfba6a3c21ca9683d98ed911_MD5.png)
 
 链接：[https://pan.baidu.com/s/1tKQEPcEKhSoLjpMLV6KZxg?pwd=pxvv](https://pan.baidu.com/s/1tKQEPcEKhSoLjpMLV6KZxg?pwd=pxvv) 
 
@@ -154,7 +154,7 @@ VX/电话:156 2553 3038
 
 # 物理系统
 ## 仿塞尔达的物理拼接系统
-![[cache_list/d934942d2d3da13478f7f3f0bfb5be3a_MD5.png]]
+![08](cache_list/d934942d2d3da13478f7f3f0bfb5be3a_MD5.png)
 
 链接：[https://pan.baidu.com/s/1ESfrqGSbAR9GetPP1b1I1Q?pwd=45fk](https://pan.baidu.com/s/1ESfrqGSbAR9GetPP1b1I1Q?pwd=45fk) 
 
@@ -165,7 +165,7 @@ VX/电话:156 2553 3038
 ```
 
 # Shader
-![[cache_list/4d10e878fb7b28fed2e38ca7635c8f11_MD5.png]]
+![09](cache_list/4d10e878fb7b28fed2e38ca7635c8f11_MD5.png)
 
 链接：[https://pan.baidu.com/s/1WbBBSWDhmckAwxURmgGGKg?pwd=5k1s](https://pan.baidu.com/s/1WbBBSWDhmckAwxURmgGGKg?pwd=5k1s) 
 
@@ -181,7 +181,7 @@ VX/电话:156 2553 3038
 
 # 性能
 ## 骨骼动画模型优化
-![[cache_list/85f0d4c338a6128cc4ab8c2d91f1a1d9_MD5.png]]
+![10](cache_list/85f0d4c338a6128cc4ab8c2d91f1a1d9_MD5.png)
 
 链接：[https://pan.baidu.com/s/1tx3VhiXAI9JlHBYAKf91lA?pwd=unu8](https://pan.baidu.com/s/1tx3VhiXAI9JlHBYAKf91lA?pwd=unu8) 
 
@@ -192,7 +192,7 @@ VX/电话:156 2553 3038
 ```
 
 # 多人游戏Demo
-![[cache_list/c8f780b20639b1cb78ec5335b6bfdc1f_MD5.png]]
+![11](cache_list/c8f780b20639b1cb78ec5335b6bfdc1f_MD5.png)
 
 链接：[https://pan.baidu.com/s/1oJVipSyc9d_QvhUPklkkIQ?pwd=bypq](https://pan.baidu.com/s/1oJVipSyc9d_QvhUPklkkIQ?pwd=bypq) 
 
@@ -240,7 +240,7 @@ VX/电话:156 2553 3038
 ## KKDamageUI
 [KKDamageUI | Fab](https://www.fab.com/zh-cn/listings/c634331c-360c-4f49-a79b-6ae4c5fc5691)
 
-![[cache_list/3e88683e19a700e7cc73f65951d3353f_MD5.png]]
+![12](cache_list/3e88683e19a700e7cc73f65951d3353f_MD5.png)
 
 ```plain
 这是一个使用C++编写的浮动伤害显示插件,支持自定义扩展,网络复制功能,包含代码注释和蓝图扩展的方式;
@@ -251,14 +251,14 @@ VX/电话:156 2553 3038
 ## SimpleCharts
 [https://www.fab.com/zh-cn/listings/f94f3a0f-c365-422a-af36-719afabc632d](https://www.fab.com/zh-cn/listings/f94f3a0f-c365-422a-af36-719afabc632d)
 
-![[cache_list/e3401f0b4fc4227094e5ec8182adcfe9_MD5.png]]
+![13](cache_list/e3401f0b4fc4227094e5ec8182adcfe9_MD5.png)
 
 ```plain
 slate编写的图标插件,填充了UE没有折线图,柱状图,扇形图的空缺
 ```
 
 # 个人博客系统
-![[cache_list/623cda514cbfe24490dec9408978111f_MD5.png]]
+![14](cache_list/623cda514cbfe24490dec9408978111f_MD5.png)
 
 推荐通过下面的视频链接观看:
 
@@ -275,7 +275,7 @@ slate编写的图标插件,填充了UE没有折线图,柱状图,扇形图的空�
 ```
 
 # 个人Github
-![[cache_list/7c4012ea419d4bb4a700a35e6361285f_MD5.png]]
+![15](cache_list/7c4012ea419d4bb4a700a35e6361285f_MD5.png)
 
 ```plain
 https://github.com/2453852330
