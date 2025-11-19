@@ -1,7 +1,7 @@
 ```plain
 VX/电话:156 2553 3038
 邮箱: 2453852330@qq.com / cao2453852330@163.com
-目前在职,可加VX沟通;
+目前离职,可加VX沟通;
 ```
 
 # 全部视频Demo汇总
@@ -370,6 +370,7 @@ https://github.com/2453852330
 [https://github.com/2453852330/UE4_RenderTarget_Texture2D_Convert](https://github.com/2453852330/UE4_RenderTarget_Texture2D_Convert)
 
 [UE4/5 MQTT 插件](https://github.com/2453852330/UE4_Plugins_mqtt_helper)
+
 
 
 
