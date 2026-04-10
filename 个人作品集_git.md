@@ -216,16 +216,7 @@ VX/电话:156 2553 3038
 
 [GitHub - tranek/GASDocumentation: My understanding of Unreal Engine 5’s GameplayAbilitySystem plugin with a simple multiplayer sample project.](https://github.com/tranek/GASDocumentation)
 
-# 目前的自研项目
-## 捉鬼大师
-链接：[https://pan.baidu.com/s/1j19cfKHzGZpP-QZnseY_3w?pwd=aa2o](https://pan.baidu.com/s/1j19cfKHzGZpP-QZnseY_3w?pwd=aa2o) 
-
-提取码：aa2o
-
-```plain
-一款国风多人捉鬼游戏,还在开发中...
-```
-
+# 历史自研项目
 ## DomDom
 链接：[https://pan.baidu.com/s/1scRKBW55PhpQpPVAm1TqGw?pwd=zssc](https://pan.baidu.com/s/1scRKBW55PhpQpPVAm1TqGw?pwd=zssc) 
 
