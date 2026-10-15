@@ -1,8 +1,8 @@
-<img width="1917" height="1138" alt="image" src="https://github.com/user-attachments/assets/4a5e7301-ddfc-4bf7-b350-352a562c7c76" />```plain
+```plain
 VX/电话:156 2553 3038
 邮箱: 2453852330@qq.com / cao2453852330@163.com
 目前离职;
-5年Unreal经验，独立游戏开发，擅长单机，联机，DS，数字孪生，数字人等开发；
+5年Unreal经验，独立游戏开发，擅长单机，联机，DS服务器，数字孪生，数字人等开发；
 ```
 
 # 全部视频Demo汇总
