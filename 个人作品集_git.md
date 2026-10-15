@@ -111,6 +111,17 @@ VX/电话:156 2553 3038
 6.AI接入,对接百度的AI实现AI建模
 7.像素流送接入和云端部署+手机网络访问
 ```
+# 顺丰SF - AGV
+<img width="800" height="437" alt="mmexport1788770903364" src="https://github.com/user-attachments/assets/412c6fe6-d938-4c56-94c0-e13e077a197f" />
+
+链接: [https://pan.baidu.com/s/14-NNOW4OITso7kCwuCpNQQ?pwd=6dg2](https://pan.baidu.com/s/14-NNOW4OITso7kCwuCpNQQ?pwd=6dg2) 
+提取码: 6dg2
+
+```plain
+1.对接自研，中力，蓝芯的AGV调度算法 （负责部署与协助维护调度系统）
+2.AGV小车的多种运动模式和移动状态机
+3.项目重构和后续开发维护
+```
 
 # Slate
 ![05](cache_list/14eadcfe624d8b5661008d7e149db5a2_MD5.png)
