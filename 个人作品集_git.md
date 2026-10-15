@@ -1,7 +1,8 @@
-```plain
+<img width="1917" height="1138" alt="image" src="https://github.com/user-attachments/assets/4a5e7301-ddfc-4bf7-b350-352a562c7c76" />```plain
 VX/电话:156 2553 3038
 邮箱: 2453852330@qq.com / cao2453852330@163.com
-目前离职,可加VX沟通;
+目前离职;
+5年Unreal经验，独立游戏开发，擅长单机，联机，DS，数字孪生，数字人等开发；
 ```
 
 # 全部视频Demo汇总
@@ -86,7 +87,7 @@ VX/电话:156 2553 3038
 包括一些地牢,迷宫的生成算法
 ```
 
-# 其他项目
+# 3D可视化 - 杰为
 ![04](cache_list/225947aa782e5b4d5014ed9b9472961c_MD5.png)
 
 链接：[https://pan.baidu.com/s/1k5yVOr_gb_btNlrVNw3OOA?pwd=xgkf](https://pan.baidu.com/s/1k5yVOr_gb_btNlrVNw3OOA?pwd=xgkf) 
@@ -146,8 +147,6 @@ VX/电话:156 2553 3038
 提取码：pxvv
 
 ```plain
-以前的行为树,EQS的Demo视频不见了.
-
 这个MassAI是UE5的新AI系统,具有良好的性能(ECS模式,缓存友好)
 其展示Demo-黑客帝国就是基于此系统开发
 ```
@@ -200,7 +199,7 @@ VX/电话:156 2553 3038
 
 ```plain
 主要使用UE4的网络系统,包括网络复制和网络RPC
-复制图系统没有用到;
+ReplicationGraph没有用到;
 ```
 
 
@@ -223,7 +222,7 @@ VX/电话:156 2553 3038
 提取码：zssc
 
 ```plain
-放置类/RougeLike/宝可梦,还在开发中...
+放置类/RougeLike/宝可梦
 支持Mod开发,自研Mod系统
 ```
 
@@ -271,7 +270,7 @@ slate编写的图标插件,填充了UE没有折线图,柱状图,扇形图的空�
 ```plain
 https://github.com/2453852330
 
-多数为UE插件和个人学习记录
+多数为UE插件，均为本人独立开发
 ```
 
 ([UE4/5 TDEngine时序数据库+Docker](https://github.com/2453852330/TDEngineHelper))
